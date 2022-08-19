@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Challenge Solution](https://your-solution-url.com)
-- Live Site URL: [Stats Preview Card Component](https://your-live-site-url.com)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/stats-preview-card-component-1GTjlwgMKi)
+- Live Site URL: [Stats Preview Card Component](https://mjspitta.github.io/Stats_preview_card_component/)
 
 ## My process
 
